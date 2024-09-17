@@ -21,7 +21,7 @@ func main() {
 	}
 
 	// Пример со строками
-	str := "Hello, World!"
+	str := "Привет"
 	reversedStr := stringutils.Reverse(str)
 	fmt.Printf("Перевернутая строка: %s\n", reversedStr)
 
